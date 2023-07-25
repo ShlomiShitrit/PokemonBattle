@@ -1,0 +1,7 @@
+.venv
+.idea
+__pycache__
+
+slot1.xlsx
+slot2.xlsx
+slot3.xlsx
